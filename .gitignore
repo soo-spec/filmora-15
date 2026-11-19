@@ -1,0 +1,7 @@
+coverage/
+*.tgz
+.env
+build/
+*.log
+.cache/
+npm-debug.log*
